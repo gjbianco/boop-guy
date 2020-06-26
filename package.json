@@ -1,0 +1,20 @@
+{
+  "name": "boop-guy",
+  "version": "1.0.0",
+  "description": "Collection of Boop scripts",
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gjbianco/boop-guy#readme"
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjbianco/boop-guy.git"
+  },
+  "keywords": [
+    "boop",
+    "scripts",
+    "utility"
+  ],
+}
